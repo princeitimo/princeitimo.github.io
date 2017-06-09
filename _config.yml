@@ -2,18 +2,18 @@
 theme: jekyll-uno
 title: PRINCEITIMO
 description: 'Feel free to bookmark this to keep an eye on my project updates'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+url: 'http://princeitimo.github.io'
+baseurl: '/princeitimo.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'PRINCEITIMO'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  email: itimoprince@gmail.com.com
+  twitter_username: princeitimo
+  facebook_username: princeitimo
+  github_username:  princeitimo
+  linkedin_username:  princeitimo
 
 defaults:
   -
