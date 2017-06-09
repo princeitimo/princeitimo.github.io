@@ -1,0 +1,10 @@
+.
+|-- _config.yml
+|-- _includes/
+|-- _layouts/
+|-- _posts/
+|-- _site/
+|-- about.html    # => http://example.com/about.html
+|-- index.html    # => http://example.com/
+|-- other.md      # => http://example.com/other.html
+└── contact.html  # => http://example.com/contact.html
