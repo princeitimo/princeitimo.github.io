@@ -1,0 +1,40 @@
+# Site settings
+theme: jekyll-uno
+title: PRINCE ITIMO'S NOTE
+description: 'I buy/sell all digital assets 
+Gift cards | $BTC(₿) | $ETH(Ξ) | $BNB(◈) | $USDT(₮) 
+When I'm not busy trading or reading, I'm hitting the road for a drive.
+WhatsApp +2349048469609'
+url: 'http://princeitimo.github.io'
+baseurl: '/princeitimo.github.io/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'disqus_GRWkE1IaTm'
+
+author:
+  name: 'PRINCE ITIMO'
+  twitter_username: princeitimo
+  instagram_username:  princeitimo
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
